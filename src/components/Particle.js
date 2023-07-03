@@ -7,6 +7,7 @@ function Particle() {
       id="tsparticles"
       params={{
         particles: {
+          autoPlay: true,
           number: {
             value: 160,
             density: {
@@ -15,12 +16,14 @@ function Particle() {
             },
           },
           line_linked: {
-            enable: false,
-            opacity: 0.03,
+            enable: true,
+            opacity: 0.5,
           },
           move: {
+            bounce: true,
+            collisions: true,
             direction: "right",
-            speed: 0.05,
+            speed: 3,
           },
           size: {
             value: 1,
