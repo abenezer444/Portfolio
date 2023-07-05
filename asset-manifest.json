@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/abenezer444/Portfolio/static/css/main.906403cf.css",
-    "main.js": "/abenezer444/Portfolio/static/js/main.23a63b75.js",
-    "static/js/415.4d6acbeb.chunk.js": "/abenezer444/Portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/abenezer444/Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/airbnb.png": "/abenezer444/Portfolio/static/media/airbnb.31e4d0ac3977feb1ecdb.png",
-    "static/media/meme-generator.png": "/abenezer444/Portfolio/static/media/meme-generator.b4e0cad770c5e0558cef.png",
-    "static/media/askanything.png": "/abenezer444/Portfolio/static/media/askanything.40a19be81bc58c5a5e62.png",
-    "static/media/travel-app.png": "/abenezer444/Portfolio/static/media/travel-app.0cd097d7f93297088a7e.png",
-    "static/media/rate-the-professor.png": "/abenezer444/Portfolio/static/media/rate-the-professor.367307174b34d56d7f49.png",
-    "static/media/logo.png": "/abenezer444/Portfolio/static/media/logo.bb10a72b62bbe59e5b52.png",
-    "static/media/avatar2.png": "/abenezer444/Portfolio/static/media/avatar2.68dbb57ec0a199b20798.png",
-    "static/media/avatar1.png": "/abenezer444/Portfolio/static/media/avatar1.a094fcf86434601d1065.png",
-    "static/media/Abenezer_Melaku_Resume_.pdf": "/abenezer444/Portfolio/static/media/Abenezer_Melaku_Resume_.6133b435a90dfa382096.pdf",
-    "static/media/home-bg.jpg": "/abenezer444/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/abenezer444/Portfolio/static/media/pre.368d700c48508968aaa0.svg",
-    "index.html": "/abenezer444/Portfolio/index.html",
-    "main.906403cf.css.map": "/abenezer444/Portfolio/static/css/main.906403cf.css.map",
-    "main.23a63b75.js.map": "/abenezer444/Portfolio/static/js/main.23a63b75.js.map",
-    "415.4d6acbeb.chunk.js.map": "/abenezer444/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/abenezer444/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.d26e7944.css",
+    "main.js": "/Portfolio/static/js/main.596b6cd5.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/airbnb.png": "/Portfolio/static/media/airbnb.31e4d0ac3977feb1ecdb.png",
+    "static/media/meme-generator.png": "/Portfolio/static/media/meme-generator.b4e0cad770c5e0558cef.png",
+    "static/media/askanything.png": "/Portfolio/static/media/askanything.40a19be81bc58c5a5e62.png",
+    "static/media/travel-app.png": "/Portfolio/static/media/travel-app.0cd097d7f93297088a7e.png",
+    "static/media/rate-the-professor.png": "/Portfolio/static/media/rate-the-professor.367307174b34d56d7f49.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.bb10a72b62bbe59e5b52.png",
+    "static/media/avatar2.png": "/Portfolio/static/media/avatar2.68dbb57ec0a199b20798.png",
+    "static/media/avatar1.png": "/Portfolio/static/media/avatar1.a094fcf86434601d1065.png",
+    "static/media/Abenezer_Melaku_Resume_.pdf": "/Portfolio/static/media/Abenezer_Melaku_Resume_.6133b435a90dfa382096.pdf",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.368d700c48508968aaa0.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.d26e7944.css.map": "/Portfolio/static/css/main.d26e7944.css.map",
+    "main.596b6cd5.js.map": "/Portfolio/static/js/main.596b6cd5.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.906403cf.css",
-    "static/js/main.23a63b75.js"
+    "static/css/main.d26e7944.css",
+    "static/js/main.596b6cd5.js"
   ]
 }
