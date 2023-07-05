@@ -22,8 +22,8 @@ function Particle() {
           move: {
             bounce: true,
             collisions: true,
-            direction: "right",
-            speed: 3,
+            direction: 400,
+            speed: 1,
           },
           size: {
             value: 1,
